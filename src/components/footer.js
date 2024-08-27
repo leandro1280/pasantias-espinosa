@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
     return (
         <footer>
-            <p>© 2024 Primeros Impactos. Todos los derechos reservados.</p>
+            <p>&copy; 2024 ITT Argentina. All rights reserved.</p>
         </footer>
     );
 }
